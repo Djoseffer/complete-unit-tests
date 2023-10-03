@@ -1,4 +1,3 @@
-# complete-unit-tests
 
 <h1 align="center">
   StarWars Planet API (sw-planet-api)
